@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"Anaconda",
+		"Better CoffeeScript",
+		"ConvertToUTF8",
+		"CSS Format",
+		"Emmet",
+		"Git",
+		"Gutter Color",
+		"HTMLBeautify",
+		"Inline Python",
+		"JsFormat",
+		"Markdown Preview",
+		"MarkdownEditing",
+		"Package Control",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"Terminal"
+	]
+}
