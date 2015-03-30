@@ -1,0 +1,806 @@
+{
+	"folder_history":
+	[
+		"/Users/ken/repo/hold",
+		"/Users/ken/repo/lib",
+		"/Users/ken/repo/safe",
+		"/Users/ken/repo/component_lib",
+		"/Users/ken/repo/yemai",
+		"/Users/ken/repo/weixin",
+		"/Users/ken/repo/yemai/template",
+		"/Users/ken",
+		"/Applications/Sublime Text.app/Contents/SharedSupport/bin"
+	],
+	"last_version": 3083,
+	"last_window_id": 82,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 480.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"overf",
+						"overflow-x"
+					],
+					[
+						"file",
+						"file_upload_columns	statement"
+					],
+					[
+						"cas",
+						"cascade_type	statement"
+					],
+					[
+						"data",
+						"data_name"
+					],
+					[
+						"re",
+						"record_id	statement"
+					],
+					[
+						"text",
+						"text_clm"
+					],
+					[
+						"value",
+						"value_clm"
+					],
+					[
+						"run",
+						"run_command"
+					],
+					[
+						"public",
+						"public_m	import"
+					],
+					[
+						"the",
+						"the_globals	param"
+					],
+					[
+						"User",
+						"UserInfoHandler	class"
+					],
+					[
+						"show",
+						"showError5"
+					],
+					[
+						"new",
+						"new_value"
+					],
+					[
+						"mari",
+						"margin-left"
+					],
+					[
+						"upl",
+						"uploaded_file_record_ref"
+					],
+					[
+						"app",
+						"append_files	statement"
+					],
+					[
+						"date",
+						"datepicker"
+					],
+					[
+						"is_",
+						"is_delete='f"
+					],
+					[
+						"crud",
+						"crud_list_api"
+					],
+					[
+						"table",
+						"table_name"
+					],
+					[
+						"hand",
+						"handleError	function"
+					],
+					[
+						"Base",
+						"BaseHandler	class"
+					],
+					[
+						"v_crud",
+						"v_crud_list"
+					],
+					[
+						"fie",
+						"fields"
+					],
+					[
+						"fi",
+						"field"
+					],
+					[
+						"tornado",
+						"tornado_bz	module"
+					],
+					[
+						"curd",
+						"crud_list"
+					],
+					[
+						"se",
+						"selected_year"
+					],
+					[
+						"sele",
+						"selected_month"
+					],
+					[
+						"sel",
+						"selected_day"
+					],
+					[
+						"select",
+						"selected_month"
+					],
+					[
+						"flo",
+						"follow_symlinks"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"ip",
+						"Package Control: Install Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"key",
+						"Preferences: Key Bindings - User"
+					],
+					[
+						"format",
+						"Anaconda: Autoformat PEP8 Errors"
+					],
+					[
+						"git diff",
+						"Git: Diff Current File"
+					],
+					[
+						"insert",
+						"Preferences: InsertDate Settings - Default"
+					],
+					[
+						"INSERT",
+						"Preferences: InsertDate Settings - User"
+					],
+					[
+						"INSERTd",
+						"Preferences: InsertDate Keybindings - Default"
+					],
+					[
+						"insertD",
+						"Preferences: InsertDate Settings - Default"
+					],
+					[
+						"insertDate",
+						"InsertDate: Open README"
+					],
+					[
+						"setting",
+						"Preferences: Settings - Default"
+					],
+					[
+						"REMOVE",
+						"Package Control: Remove Package"
+					],
+					[
+						"removep",
+						"Package Control: Remove Package"
+					],
+					[
+						"coffee",
+						"Coffee: Compile File"
+					],
+					[
+						"ctag",
+						"CTags: Show Symbols (file)"
+					],
+					[
+						"godef",
+						"Anaconda: Goto object definition"
+					],
+					[
+						"git pull",
+						"Git: Pull"
+					],
+					[
+						"GIT PULL",
+						"Git: Pull"
+					],
+					[
+						"gutt",
+						"GutterColor: Fix Current Color Scheme"
+					],
+					[
+						"gutterco",
+						"Preferences: GutterColor Settings – Default"
+					],
+					[
+						"gutter",
+						"GutterColor: Fix Current Color Scheme"
+					],
+					[
+						"less",
+						"Set Syntax: LESS"
+					],
+					[
+						"package file",
+						"Package Control: Create Package File"
+					],
+					[
+						"package list",
+						"Package Control: List Packages"
+					],
+					[
+						"git ",
+						"Git: Gui"
+					],
+					[
+						"edit",
+						"Project: Edit"
+					],
+					[
+						"project",
+						"Project: Refresh Folders"
+					],
+					[
+						"p ro j e c t",
+						"Project: Add Folder"
+					],
+					[
+						"html",
+						"HTMLBeautify"
+					],
+					[
+						"package control remove",
+						"Package Control: Remove Package"
+					],
+					[
+						"Git",
+						"Package Control: Install Package"
+					],
+					[
+						"",
+						"About"
+					],
+					[
+						"user",
+						"Preferences: Settings - User"
+					]
+				],
+				"width": 449.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os,hashlib; h = 'eb2297e1a458f27d836c04bb0cbaf282' + 'd0e7a3098092775ccb37ca9d6b2e4b7d'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)  "
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/Users/ken/repo/component_lib/lib/vue/src/directives/html.js",
+				"/Users/ken/repo/lib/python_lib_bz/static/js/crud_m.js",
+				"/Users/ken/repo/safe/safe.py",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/crud_m.py",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/crud_m.coffee",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/crud_m.html",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/file_upload_m.html",
+				"/Users/ken/repo/lib/python_lib_bz/db_bz.py",
+				"/Users/ken/repo/safe/static/uploaded_files/1_1426485580_一个外行初识HOLD.docx",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/accord/node_modules/lodash/internal/replaceHolders.js",
+				"/Users/ken/repo/component_lib/lib/jquery/src/var/hasOwn.js",
+				"/Users/ken/repo/safe/template/component/header.html",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/crud_list_m.coffee",
+				"/Users/ken/repo/lib/python_lib_bz/readme",
+				"/Users/ken/repo/component_lib/lib/bootstrap/less/responsive-utilities.less",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/less/node_modules/image-size/lib/readUInt.js",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/file_upload_m.less",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/file_upload_m.py",
+				"/Users/ken/repo/lib/python_lib_bz/time_bz.py",
+				"/Users/ken/repo/safe/template/three_post_cert.html",
+				"/Users/ken/repo/lib/python_lib_bz/public_bz.py",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/public_m.less",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/public_m.coffee",
+				"/Users/ken/repo/lib/python_lib_bz/doc/public_bz.rst",
+				"/Users/ken/repo/safe/pg.py",
+				"/Users/ken/repo/safe/static/three_post_cert.coffee",
+				"/Users/ken/repo/lib/python_lib_bz/static/lib/ionicons-2.0.1/src/chevron-up.svg",
+				"/Users/ken/repo/lib/python_lib_bz/tornado_bz.py",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/public_m.py",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+				"/Users/ken/repo/lib/python_lib_bz/static/css/public_m.css",
+				"/Users/ken/repo/lib/python_lib_bz/tornado_ui_bz.py",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/less/lib/less/render.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/less/dist/less.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/accord/lib/adapter_base.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/less/lib/less/index.js",
+				"/Users/ken/repo/component_lib/lib/jquery/src/css/curCSS.js",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/add_author.py",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/package.json",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/package.json",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/package.json",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/node_modules/gulp-less/node_modules/accord/node_modules/lodash/utility/matchesProperty.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/node_modules/xtend/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/node_modules/xtend/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/xtend/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/accord/node_modules/lodash/utility/matchesProperty.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/transform.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/transform.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/transform.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/clean-css/lib/colors/long-to-short-hex.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/package.json",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/LICENSE",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/package.json",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/LICENSE",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/package.json",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/LICENSE",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/lib/_stream_passthrough.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-uglify/node_modules/uri-path/.npmignore",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/less/test/browser/phantom-runner.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/.npmignore",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/README.md",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/README.md",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/README.md",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/faye-websocket/examples/haproxy.conf",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/less/node_modules/request/node_modules/form-data/node_modules/combined-stream/node_modules/delayed-stream/test/integration/test-handle-source-errors.js",
+				"/Users/ken/repo/lib/python_lib_bz/static/lib/AdminLTE-2.0.2/plugins/flot/jquery.flot.threshold.min.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/maxmin/node_modules/gzip-size/node_modules/zlib-browserify/node_modules/tape/test/child_ordering.js",
+				"/Users/ken/repo/lib/python_lib_bz/static/lib/Font-Awesome/src/_includes/tests/rotated-flipped-inside-anchor.html",
+				"/Users/ken/repo/lib/python_lib_bz/static/lib/AdminLTE-2.0.2/plugins/flot/jquery.flot.threshold.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/minimist/test/short.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/dateformat/node_modules/meow/node_modules/minimist/test/short.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/passthrough.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/passthrough.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/node_modules/readable-stream/passthrough.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/less/node_modules/mkdirp/node_modules/minimist/test/short.js",
+				"/Users/ken/repo/lib/python_lib_bz/static/lib/Font-Awesome/src/_includes/tests/stacked-inside-anchor.html",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/tildify/node_modules/user-home/readme.md",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/node_modules/gulp-less/node_modules/accord/node_modules/uglify-js/node_modules/optimist/example/short.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/less/node_modules/clean-css/lib/colors/long-to-short-hex.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/lib/_stream_passthrough.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-uglify/node_modules/uglify-js/node_modules/optimist/example/short.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/gulp-util/node_modules/multipipe/History.md",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/multipipe/History.md",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/multipipe/History.md",
+				"/Users/ken/repo/safe/static/node_modules/gulp-coffee/node_modules/gulp-util/node_modules/multipipe/History.md",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/multipipe/History.md",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt/node_modules/js-yaml/HISTORY.md",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/less/test/browser/runner-rootpath-relative-options.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-watch/node_modules/tiny-lr-fork/node_modules/qs/History.md",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/gulp-util/node_modules/minimist/test/short.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/minimist/test/short.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/minimist/test/short.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-coffee/node_modules/gulp-util/node_modules/minimist/test/short.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/vinyl-fs/node_modules/through2/through2.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt/node_modules/hooker/test/hooker_test.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/through2/through2.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-coffee/node_modules/through2/through2.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/concat-stream/node_modules/readable-stream/passthrough.js",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-uglify/node_modules/maxmin/node_modules/gzip-size/node_modules/browserify-zlib/node_modules/pako/HISTORY.md",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt-contrib-less/node_modules/maxmin/node_modules/gzip-size/node_modules/zlib-browserify/node_modules/tape/test/throw.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/accord/node_modules/uglify-js/node_modules/yargs/test/short.js",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/node_modules/gulp-less/node_modules/accord/node_modules/lodash/function/throttle.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-less/node_modules/accord/node_modules/lodash/function/throttle.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-jsmin/node_modules/gulp-util/node_modules/through2/through2.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp-cssmin/node_modules/gulp-util/node_modules/through2/through2.js",
+				"/Users/ken/repo/safe/static/node_modules/gulp/node_modules/gulp-util/node_modules/through2/through2.js",
+				"/Users/ken/repo/lib/python_lib_bz/doc/_build/doctrees/tornado_auth_bz.doctree",
+				"/Users/ken/repo/safe/static/lib/AdminLTE-2.0.2/node_modules/grunt/node_modules/rimraf/AUTHORS",
+				"/Users/ken/repo/lib/python_lib_bz/tornado_auth_bz.py",
+				"/Users/ken/repo/safe/auto_pull.sh",
+				"/Users/ken/repo/lib/python_lib_bz/static/lib/ionicons-2.0.1/src/android-unlock.svg",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/Default/Default (OSX).sublime-keymap",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/User/insert_date.sublime-settings",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/InsertDate/insert_date.sublime-settings",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/InsertDate/Default (OSX).sublime-keymap",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/InsertDate/README.md",
+				"/Users/ken/repo/lib/python_lib_bz/ui_module/login_m.py",
+				"/Users/ken/repo/lib/python_lib_bz/user_bz.py",
+				"/Users/ken/repo/component_lib/index.html",
+				"/Users/ken/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+				"/Users/ken/repo/lib/python_lib_bz/static/js/public_m.js"
+			],
+			"find":
+			{
+				"height": 23.0
+			},
+			"find_in_files":
+			{
+				"height": 93.0,
+				"where_history":
+				[
+					"<open folders>"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"console.log",
+					"all_files",
+					"console.log",
+					"public_m",
+					"date",
+					">>>",
+					">",
+					"option",
+					"super",
+					"goto_definition",
+					"print",
+					"lib_static",
+					"getAllUI",
+					"\n    ",
+					"profile_m",
+					"jinja",
+					"jinjia",
+					"v-repeat",
+					"keyword",
+					"$set",
+					"13px",
+					"crud",
+					"my_ui",
+					"my_ui_module",
+					".py",
+					"my_ui_module",
+					"sidebar",
+					"main-sidebar",
+					"});\n",
+					"[\"",
+					"join",
+					"console.log",
+					"inherit: true",
+					"column",
+					"option.get",
+					"console.log",
+					"print",
+					"record",
+					"crud",
+					"登陆",
+					"login",
+					"v-btn-loading",
+					"v_tpc",
+					"crud_api",
+					"bz.get",
+					"表单展示",
+					"crud_m",
+					"crud",
+					"script",
+					"edit",
+					"selected_year",
+					"componenet",
+					"cascade_select",
+					"None",
+					"\",\n",
+					".html",
+					"v-component",
+					"{% include",
+					".html",
+					"include",
+					"sidebar",
+					"sidebarToggleSelector",
+					"offcanvas",
+					"data-toggle=offcanvas",
+					"data-toggle",
+					"sidebar",
+					"sidebar-toggle",
+					"/*!",
+					"has_menu",
+					"maintest",
+					"MustLogin",
+					"M　",
+					"main",
+					"/",
+					"self.finish(html)",
+					"loginout",
+					"logout",
+					"signup",
+					"signup_m",
+					"signup",
+					"sidebar-open",
+					"sidebar-collapse",
+					"sidebar-collapse sidebar-open",
+					"sidebar",
+					"get_template_namespace",
+					"signup_m.js",
+					"{{action_url}}",
+					"login",
+					"#",
+					"login",
+					"self.finish",
+					"edit",
+					"79"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 23.0
+			},
+			"input":
+			{
+				"height": 31.0
+			},
+			"menu_visible": true,
+			"output.exec":
+			{
+				"height": 0.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.git":
+			{
+				"height": 100.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 42.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+					[
+						"html",
+						"component_lib/lib/vue/src/directives/html.js"
+					],
+					[
+						"crud",
+						"lib/python_lib_bz/ui_module/crud_m.html"
+					],
+					[
+						"file",
+						"lib/python_lib_bz/ui_module/file_upload_m.html"
+					],
+					[
+						"safe",
+						"safe/safe.py"
+					],
+					[
+						"crud_m.js",
+						"lib/python_lib_bz/static/js/crud_m.js"
+					],
+					[
+						"file_upload",
+						"lib/python_lib_bz/ui_module/file_upload_m.html"
+					],
+					[
+						"public_m",
+						"lib/python_lib_bz/ui_module/public_m.coffee"
+					],
+					[
+						"publi",
+						"lib/python_lib_bz/ui_module/public_m.py"
+					],
+					[
+						"three",
+						"safe/template/three_post_cert.html"
+					],
+					[
+						"crud_m.coffee",
+						"lib/python_lib_bz/ui_module/crud_m.coffee"
+					],
+					[
+						"curd",
+						"lib/python_lib_bz/ui_module/crud_m.py"
+					],
+					[
+						"public_m.coff",
+						"lib/python_lib_bz/ui_module/public_m.coffee"
+					],
+					[
+						"pg.py",
+						"safe/pg.py"
+					],
+					[
+						"tornado",
+						"lib/python_lib_bz/tornado_bz.py"
+					],
+					[
+						"crud_list",
+						"lib/python_lib_bz/ui_module/crud_list_m.coffee"
+					],
+					[
+						"safe.py",
+						"safe/safe.py"
+					],
+					[
+						"public",
+						"lib/python_lib_bz/public_bz.py"
+					],
+					[
+						"jinja2",
+						"lib/python_lib_bz/jinja2_bz.py"
+					],
+					[
+						"crud_list_m",
+						"lib/python_lib_bz/ui_module/crud_list_m.coffee"
+					],
+					[
+						"crud_m.py",
+						"lib/python_lib_bz/ui_module/crud_m.py"
+					],
+					[
+						"safe.",
+						"safe/safe.py"
+					],
+					[
+						"style.less",
+						"safe/static/style.less"
+					],
+					[
+						".coffee",
+						"safe/static/public.coffee"
+					],
+					[
+						"comment",
+						"lib/python_lib_bz/comment_bz.py"
+					],
+					[
+						"comment_m",
+						"lib/python_lib_bz/ui_module/comment_m.coffee"
+					],
+					[
+						"app.js",
+						"lib/python_lib_bz/static/lib/AdminLTE-2.0.2/dist/js/app.js"
+					],
+					[
+						"menu",
+						"safe/template/menu_test.html"
+					],
+					[
+						"time",
+						"lib/python_lib_bz/time_bz.py"
+					],
+					[
+						"time_bz",
+						"lib/python_lib_bz/time_bz.py"
+					],
+					[
+						"crud.py",
+						"lib/python_lib_bz/ui_module/crud_m.py"
+					],
+					[
+						"crud.html",
+						"lib/python_lib_bz/ui_module/crud_m.html"
+					],
+					[
+						"thre",
+						"safe/template/three_post_cert.html"
+					],
+					[
+						"public_m.js",
+						"lib/python_lib_bz/static/js/public_m.js"
+					],
+					[
+						"login.html",
+						"safe/template/login.html"
+					],
+					[
+						"trhee",
+						"safe/static/three_post_cert.coffee"
+					],
+					[
+						"base.html",
+						"safe/template/base.html"
+					],
+					[
+						"skin",
+						"safe/static/lib/AdminLTE-2.0.2/build/less/skins/skin-blue.less"
+					],
+					[
+						"admin",
+						"safe/static/lib/AdminLTE-2.0.2/build/less/AdminLTE.less"
+					],
+					[
+						".less",
+						"safe/static/style.less"
+					]
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 500.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 380.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 212.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+			"/Users/ken/repo/projects/safe.sublime-workspace",
+			"/Users/ken/repo/safe/safe.sublime-workspace"
+		]
+	}
+}
